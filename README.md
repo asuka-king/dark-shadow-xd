@@ -3,7 +3,7 @@
 
 <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
 
-> **`Updated To` The Version 4.0.0**
+> **`Updated To` The Version 1.0.0**
 <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
 
 ```
