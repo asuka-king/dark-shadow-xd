@@ -3,7 +3,7 @@
 
 <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
 
-> **`Updated To` The Version 4.0.0**
+> **`Updated To` The Version 1.0.0**
 <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
 
 ```
@@ -38,7 +38,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/asuka-king/dark-shadow-xd"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v4.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/asuka-king/dark-shadow-xd"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
  <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
 
@@ -399,7 +399,7 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 
 <p align="center">
 <details>
-<summary> DEPLOY IN TERMUX/UBUNTU </summary>
+<summary> #### DEPLOY IN TERMUX/UBUNTU</summary>
   
  
  
