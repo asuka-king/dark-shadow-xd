@@ -1,5 +1,5 @@
 
-#### ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ| STILL MANY HIDDEN COMMANDS
+#### ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ | ✦ᴀꜱᴜᴋᴀ ᴋɪɴɢ✦
 
 <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
 
@@ -12,7 +12,7 @@
 
  <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
 
-<a><img src='https://files.catbox.moe/jevubx.jpg'/></a>
+<a><img src='https://files.catbox.moe/yod3dj.jpg'/></a>
 
 ---
 
@@ -28,7 +28,7 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9cu0FIiRoxxrIMee3J)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{dark-shadow-xd}/count.svg" alt="asuka-king :: Visitor's Count" old_src="https://profile-counter.glitch.me/{asuka-king}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{dark-shadow-xd}/count.svg" alt="asuka-king :: Visitor's Count" old_src="https://profile-counter.glitch.me/{asuka-king-xd}/count.svg" /></p>
 
 
 <p align="center">
@@ -38,18 +38,9 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/asuka-king/dark-shadow-xd"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v4.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/asuka-king/dark-shadow-xd"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
- <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
-
-----
-<h1 align="center"> EXTERNAL PLUGINS </h1>
-
-<p align="center">
-<a href="https://github.com/asuka-king/EXTERNAL--PLUGINS"><img title="Author" src="https://img.shields.io/badge/dark-shadow-xd-PLUGINS-black?style=for-the-badge&logo=Github"></a>
-<p/>
-
-  
+ <a><img src='https://imgur.com/a/Jb05Ikq.gif'</a>
 ----
  <h2 align="center">  NOTE
 </h2>
@@ -84,7 +75,7 @@ set the Env Vars.
 
 
 To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
-[![ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@malvintech2)
+[![ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@asuka-king-sl)
 
 ---
 </details>
@@ -181,7 +172,7 @@ To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
       **Tutorial For Panel**
 1. First You Have to Sign up on discord using web or app download from playstore.
    <br>
-   <a href='https://youtube.com/@malvintech2' target="_blank">
+   <a href='https://youtube.com/@asuka-king-sl' target="_blank">
       <img alt='Deployment Tutorial' src='https://img.shields.io/badge/-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white'/>
    </a>
    
@@ -268,7 +259,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/asuka-king/ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ.git
+   git clone https://github.com/asuka-king/dark-shadow-xd.git
 ---
 
 <details>
@@ -370,14 +361,11 @@ Submit a pull request with a detailed description of your changes.
   <a href="https://github.com/asuka-king">
     <img src="https://img.shields.io/badge/GitHub-asuka-king-blue?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://t.me/malvinking2">
-    <img src="https://img.shields.io/badge/Telegram-@malvinking2-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://wa.me/message/BRDPXBM77ARZJ1">
+  <a href="https://wa.me/message/94769484004">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://youtube.com/@malvintech2">
-    <img src="https://img.shields.io/badge/YouTube-@malvintech2-000000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://youtube.com/@asuka-king-sl">
+    <img src="https://img.shields.io/badge/YouTube-@asuka-king-sl-000000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 ### 📄 License
