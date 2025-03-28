@@ -3,7 +3,7 @@
 
 <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
 
-> **`Updated To` The Version 1.0.0**
+> **`Updated To` The Version 4.0.0**
 <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
 
 ```
@@ -28,7 +28,7 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9cu0FIiRoxxrIMee3J)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{dark-shadow-xd}/count.svg" alt="asuka-king :: Visitor's Count" old_src="https://profile-counter.glitch.me/{asuka-king-xd}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{dark-shadow-xd}/count.svg" alt="asuka-king :: Visitor's Count" old_src="https://profile-counter.glitch.me/{asuka-king}/count.svg" /></p>
 
 
 <p align="center">
@@ -38,14 +38,23 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/asuka-king/dark-shadow-xd"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/asuka-king/dark-shadow-xd"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v4.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
- <a><img src='https://imgur.com/a/Jb05Ikq.gif'</a>
+ <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
+
+----
+<h1 align="center"> EXTERNAL PLUGINS </h1>
+
+<p align="center">
+<a href="https://github.com/asuka-king/EXTERNAL--PLUGINS"><img title="Author" src="https://img.shields.io/badge/dark-shadow-xd-PLUGINS-black?style=for-the-badge&logo=Github"></a>
+<p/>
+
+  
 ----
  <h2 align="center">  NOTE
 </h2>
 
-#### No Worries If You Don't Have pre connection/SESSION_ID , Just Put Your Number In The Value Of BOT_NUMBER, e.g BOT_NUMBER = '26379099XXX' , Either In config.js or .env file , And Deploy The Bot, You'll Get A Pairing Code Directly In The Terminal at The End Of Deployment, Pair And Get Connected.
+#### No Worries If You Don't Have pre connection/SESSION_ID , Just Put Your Number In The Value Of BOT_NUMBER, e.g BOT_NUMBER = '9476XXXX' , Either In config.js or .env file , And Deploy The Bot, You'll Get A Pairing Code Directly In The Terminal at The End Of Deployment, Pair And Get Connected.
 
 ----
 
@@ -63,7 +72,7 @@ set the Env Vars.
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
-| OWNERS | owner number e.g 263714757857 | 
+| OWNERS | owner number e.g 94769484004 | 
 | BOTNAME | Your Bot Name | 
 | antidelete | bot will forward deleted messages if you make it true | 
 
@@ -71,17 +80,17 @@ set the Env Vars.
 ----
 
 <details>
-<summary>## 🎬 Watch the Tutorial</summary>
+<summary>🎬 𝗪𝗮𝘁𝗰𝗵 𝘁𝗵𝗲 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹</summary>
 
 
-To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
+To set up the ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ quickly, follow our detailed tutorial on YouTube:
 [![ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@asuka-king-sl)
 
 ---
 </details>
 
 <details>
-<summary>## Features</summary>
+<summary>𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</summary>
 
 - **Autoreact**: If You enables, Bot Will Reats With **Beautiful Random Emojis** On All Messages In All Chats.
 - **Stickers**: A Rainbow Of Stickers Waiting For You.
@@ -105,6 +114,10 @@ To set up the Jinwoo-bot v4 quickly, follow our detailed tutorial on YouTube:
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
      [![ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://random-catherina-lirds-fea547ff.koyeb.app/)
+
+### DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
+
+<a href='https://random-catherina-lirds-fea547ff.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 
 ### **Step-by-Step Deployment Guide**
 
@@ -215,14 +228,14 @@ jobs:
 
 -----------
 <details>
-<summary>## Support & Community
+<summary>Support & Community
 </summary>
 
 <p align="center">Need help? Create an <a href="https://github.com/asuka-king/dark-shadow-xd/issues">issue</a> or <a href="https://wa.me/263780934873?text=Hello+Malvin+King,+I+need+assistance+with+Jinwoo+v4+Bot">Contact Us on WhatsApp</a>.</p>
 
 ---
 
-### 📜 Table of Contents
+📜 ### Table of Contents
 1. [About ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ](#-about-dark-shadow-xd)
 2. [Features](#-features)
 3. [Installation](#-installation)
@@ -234,7 +247,7 @@ jobs:
 </details>
 
 <details>
-<summary>### 💡 About ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ </summary>
+<summary> 💡 About ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ </summary>
 
 **ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ** is a multi-functional WhatsApp bot designed for automatic reactions, status updates, motivational quotes, and music/media downloads. Built with the **Baileys API**, it aims to enhance user interaction with custom and automated responses. Whether you want fun interactions in a group, to download media from links, or to get motivational quotes, this bot does it all!
 
@@ -259,7 +272,7 @@ To get started with this project, follow the steps below:
 ---
 
 <details>
-<summary>### 💥 Features</summary>
+<summary>💥 Features</summary>
 
 
 🌅 *.botmenu* - The Bot's secret control panel.
@@ -386,7 +399,7 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 
 <p align="center">
 <details>
-<summary>7. #### DEPLOY IN TERMUX/UBUNTU</summary>
+<summary> DEPLOY IN TERMUX/UBUNTU </summary>
   
  
  
