@@ -40,14 +40,7 @@
 <p align="center">
   <a href="https://github.com/asuka-king/dark-shadow-xd"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
- <a><img src='https://imgur.com/a/Jb05Ikq.gif'/>
-
-----
-<h1 align="center"> EXTERNAL PLUGINS </h1>
-
-<p align="center">
-<a href="https://github.com/asuka-king/EXTERNAL--PLUGINS"><img title="Author" src="https://img.shields.io/badge/dark-shadow-xd-PLUGINS-black?style=for-the-badge&logo=Github"></a>
-<p/>
+ <a><img src='https://imgur.com/a/Jb05Ikq.gif'/</a>
 
   
 ----
@@ -114,10 +107,6 @@ To set up the ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ quickly, follow our detailed tu
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
      [![ᴅᴀʀᴋ ꜱʜᴀᴅᴏᴡ-xᴅ Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://random-catherina-lirds-fea547ff.koyeb.app/)
-
-### DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
-
-<a href='https://random-catherina-lirds-fea547ff.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 
 ### **Step-by-Step Deployment Guide**
 
