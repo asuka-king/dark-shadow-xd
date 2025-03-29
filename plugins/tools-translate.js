@@ -1,0 +1,46 @@
+/*
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+𝗔𝗦𝗨𝗞𝗔 𝗞𝗜𝗡𝗚 -->>> 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗗𝗔𝗥𝗞 𝗕𝗢𝗧
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+created by ᴀꜱᴜᴋᴀ-ᴋɪɴɢ 🕵
+contact me 94769484004 ♻️
+ᴄᴏᴘʏ ᴄᴏᴅᴇʀ ᴀʟᴇʀᴛ ☐☐☐
+*/
+
+
+import { translate } from '@vitalets/google-translate-api'
+const defaultLang = 'en'
+const tld = 'cn'
+
+let handler = async (m, { args, usedPrefix, command }) => {
+  let err = `
+📌 *Example:*
+
+*${usedPrefix + command}* <id> [text]
+*${usedPrefix + command}* en Hello World
+
+≡ *List of supported languages:* 
+
+https://cloud.google.com/translate/docs/languages
+`.trim()
+
+  let lang = args[0]
+  let text = args.slice(1).join(' ')
+  if ((args[0] || '').length !== 2) {
+    lang = defaultLang
+    text = args.join(' ')
+  }
+  if (!text && m.quoted && m.quoted.text) text = m.quoted.text
+
+  try {
+    let result = await translate(text, { to: lang, autoCorrect: true }).catch(_ => null)
+    m.reply(result.text)
+  } catch (e) {
+    throw err
+  }
+}
+handler.help = ['translate <lang> <text>']
+handler.tags = ['tools']
+handler.command = ['translate', 'tl', 'trad', 'tr']
+
+export default handler
