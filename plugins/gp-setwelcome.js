@@ -1,0 +1,26 @@
+/*
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+𝗔𝗦𝗨𝗞𝗔 𝗞𝗜𝗡𝗚 -->>> 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗗𝗔𝗥𝗞 𝗕𝗢𝗧
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+created by ᴀꜱᴜᴋᴀ-ᴋɪɴɢ 🕵
+contact me 94769484004 ♻️
+ᴄᴏᴘʏ ᴄᴏᴅᴇʀ ᴀʟᴇʀᴛ ☐☐☐
+*/
+
+
+let handler = async (m, { conn, text, isROwner, isOwner }) => {
+  if (text) {
+    global.db.data.chats[m.chat].sWelcome = text;
+    m.reply(`✅ Welcome message updated successfully!`);
+  } else {
+    throw `✳️ Please provide a new welcome message.`;
+  }
+}
+
+handler.help = ['setwelcome'];
+handler.tags = ['group'];
+handler.command = ['setwelcome'];
+handler.admin = true;
+handler.owner = false;
+
+export default handler;
